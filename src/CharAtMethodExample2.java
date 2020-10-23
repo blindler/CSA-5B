@@ -1,4 +1,4 @@
-public class CharAtMethodExample {
+public class CharAtMethodExample2 {
  
   public static String exampleVariableOne = "Hello World!";
   // returns the character at a specific index
