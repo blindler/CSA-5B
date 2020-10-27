@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6781043e-9321-4842-8b4e-e56b8264d8d1" name="Default Changelist" comment="out dir added" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jHa2AKDuIRzHeGxkVjSokzzpyS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CSA-5B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6781043e-9321-4842-8b4e-e56b8264d8d1" name="Default Changelist" comment="" />
+      <created>1603463260921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603463260921</updated>
+    </task>
+    <task id="LOCAL-00001" summary="out dir added">
+      <created>1603465334492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603465334493</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="out dir added" />
+    <option name="LAST_COMMIT_MESSAGE" value="out dir added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="273" y="87" key="#Project_Structure" timestamp="1603463392316">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="273" y="87" key="#Project_Structure/0.0.1920.1080/3968.0.1920.1080/1920.0.2048.1152@0.0.1920.1080" timestamp="1603463392316" />
+    <state x="249" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603464108010">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="249" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/3968.0.1920.1080/1920.0.2048.1152@0.0.1920.1080" timestamp="1603464108010" />
+    <state x="665" y="410" key="Github.ShareDialog" timestamp="1603463454606">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="665" y="410" key="Github.ShareDialog/0.0.1920.1080/3968.0.1920.1080/1920.0.2048.1152@0.0.1920.1080" timestamp="1603463454606" />
+    <state x="555" y="218" key="Github.UntrackedFilesDialog" timestamp="1603463460507">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="218" key="Github.UntrackedFilesDialog/0.0.1920.1080/3968.0.1920.1080/1920.0.2048.1152@0.0.1920.1080" timestamp="1603463460507" />
+    <state width="1436" height="236" key="GridCell.Tab.0.bottom" timestamp="1603472531892">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1436" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1080/3968.0.1920.1080/1920.0.2048.1152@0.0.1920.1080" timestamp="1603472531892" />
+    <state width="1436" height="236" key="GridCell.Tab.0.center" timestamp="1603472531892">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1436" height="236" key="GridCell.Tab.0.center/0.0.1920.1080/3968.0.1920.1080/1920.0.2048.1152@0.0.1920.1080" timestamp="1603472531892" />
+    <state width="1436" height="236" key="GridCell.Tab.0.left" timestamp="1603472531891">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1436" height="236" key="GridCell.Tab.0.left/0.0.1920.1080/3968.0.1920.1080/1920.0.2048.1152@0.0.1920.1080" timestamp="1603472531891" />
+    <state width="1436" height="236" key="GridCell.Tab.0.right" timestamp="1603472531892">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1436" height="236" key="GridCell.Tab.0.right/0.0.1920.1080/3968.0.1920.1080/1920.0.2048.1152@0.0.1920.1080" timestamp="1603472531892" />
+    <state x="385" y="246" key="Vcs.Push.Dialog.v2" timestamp="1603465338148">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="385" y="246" key="Vcs.Push.Dialog.v2/0.0.1920.1080/3968.0.1920.1080/1920.0.2048.1152@0.0.1920.1080" timestamp="1603465338148" />
+    <state x="598" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603465320503">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="598" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/3968.0.1920.1080/1920.0.2048.1152@0.0.1920.1080" timestamp="1603465320503" />
+  </component>
+</project>
