@@ -10,23 +10,30 @@ public class PetRunner2 {
         System.out.println(pet2.getName());
 
         System.out.println(pet2.getName() + ", age: " + pet2.getAge());
+        System.out.println(pet2.getPetCount());
 
     }
 }
 class Pet2 {
     private String name = "";
     private int age = 0;
+    private static int petCount;
 
     public Pet2(String n){ // constructor
         name = n;
+        petCount++;
         System.out.println("hey " + name);
     }
+
 
     public Pet2(String n, int a){
         this(n);
         age = a;
     }
 
+    public int getPetCount(){
+        return petCount;
+    }
     public void setAge( int a){
         age = a;
     }
