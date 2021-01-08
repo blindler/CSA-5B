@@ -45,12 +45,19 @@ class SpellChecker {
 
   public boolean spellcheck(String check) {
 
-    for (String word:dictionary) {
-      if (word.equals(check)) return true;
+    for ( String word: dictionary) {
+      if (word.equals(check))
+          return true;
 
     }
     return false;
   }
+
+
+
+
+
+
 
   public SpellChecker() {
     try {

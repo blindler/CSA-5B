@@ -2,31 +2,29 @@ public class Tester {
 
     public static void main(String[] args) {
 
-    int i = 0;
-        for ( i = 0; i < 10; i++){}
+        int[] list = {5,6,7,8};
 
+        print(someMethod(list));
+        print(list);
         String s = "hey";
 
-       String ss = s.substring(s.length());
-        System.out.println(ss);
 
 
-
-        // stars(3);
     }
 
-    public static void stars(int num) {
+    public static int[] someMethod(int[] nums) {
 
-        if (num == 1) {
-            return;
-        }
-        stars(num - 1);
+        int[] a = {1,2,3,4};
+        nums[0]=50;
+        nums = a;
+        return a;
 
-        for (int i = 0; i < num; i++) {
-            System.out.print("*");
+    }
+    public static void print(int[] a){
+        for (int num: a){
+            System.out.print(num + " ");
         }
         System.out.println();
-
     }
 }
 
@@ -48,41 +46,6 @@ public class Tester {
 
 
 
-
-
-//        String message = "was it a cat I saw";
-//        System.out.println(message);
-//        String result = "";
-//        // reverse it
-//
-//        for (int i = 0; i < message.length(); i++){
-//            result = message.substring(i,i+1) + result;
-//
-//            System.out.println(result);
-//        }
-//
-//
-//        System.out.println(result);
-
-
-
-
-
-
-
-
-
-
-//                while ( message.indexOf("x") != -1 )
-//                {
-//                    int x = message.indexOf("x");
-//                    String part1 = message.substring(0,x);
-//                    String part2 = message.substring(x+1);
-//
-//                    message = part1 + part2;
-//
-//                    System.out.println(message);
-//                }
 
 
 
